@@ -1,0 +1,11 @@
+Final Project:
+
+Make a part for the entering the name in welcome, so that if there is no value in the variable, it just prints welcome, but if there is then it prints the name with it too
+
+fix the error of extra \n being saved
+
+Check possible errors by typing random options
+
+Make sure to mention its capital sensitive
+
+enter a number in the e to enter or R to return

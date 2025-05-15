@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1527961290 source:d:\school\computer science\12\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1527961276 d:\school\computer science\12\final project\header.h
+
+1527961276 source:d:\school\computer science\12\final project\function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1527978827 source:c:\users\user\desktop\final project\final project\function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1527978827 c:\users\user\desktop\final project\final project\header.h
+
+1527978827 source:c:\users\user\desktop\final project\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1528061596 source:f:\programming\code blocks\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1527982276 f:\programming\code blocks\final project\header.h
+
+1527982532 source:f:\programming\code blocks\final project\function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1528157630 source:d:\final project 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1527982276 d:\final project 1\header.h
+
+1528173248 source:d:\final project 1\function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1528181995 source:c:\users\user\desktop\final project 1\final project 1\function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1528174328 c:\users\user\desktop\final project 1\final project 1\header.h
+
+1528179140 source:c:\users\user\desktop\final project 1\final project 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1528182052 source:d:\programming\code blocks\final project 1\final project 1\function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1528174330 d:\programming\code blocks\final project 1\final project 1\header.h
+
+1528218458 source:d:\programming\code blocks\final project 1\final project 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
